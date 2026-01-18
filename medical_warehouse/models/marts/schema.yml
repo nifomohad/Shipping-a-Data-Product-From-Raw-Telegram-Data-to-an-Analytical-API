@@ -46,4 +46,4 @@ models:
       - name: view_count
         description: "Number of views on the message."
         tests:
-          - not_nulldbt
+          - not_null
