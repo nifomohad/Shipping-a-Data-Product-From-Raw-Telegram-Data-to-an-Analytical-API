@@ -13,3 +13,18 @@
 2026-01-18 18:09:48,503 - INFO -   @cheMed123: 5 messages
 2026-01-18 18:09:48,503 - INFO -   @lobelia4cosmetics: 5 messages
 2026-01-18 18:09:48,504 - INFO -   @tikvahpharma: 5 messages
+2026-01-18 20:18:19,415 - INFO - Telegram client initialized
+2026-01-18 20:18:20,423 - INFO - Client authenticated. Scraping 3 channels...
+2026-01-18 20:18:20,440 - INFO - Scraping @cheMed123...
+2026-01-18 20:18:20,567 - INFO - Starting scrape of @cheMed123 (limit=50)
+2026-01-18 20:20:20,034 - INFO - Finished scraping @cheMed123: 50 messages saved
+2026-01-18 20:20:23,048 - INFO - Scraping @lobelia4cosmetics...
+2026-01-18 20:20:23,188 - INFO - Starting scrape of @lobelia4cosmetics (limit=50)
+2026-01-18 20:22:08,715 - INFO - Finished scraping @lobelia4cosmetics: 50 messages saved
+2026-01-18 20:22:11,731 - INFO - Scraping @tikvahpharma...
+2026-01-18 20:22:11,870 - INFO - Starting scrape of @tikvahpharma (limit=50)
+2026-01-18 20:23:35,496 - INFO - Finished scraping @tikvahpharma: 50 messages saved
+2026-01-18 20:23:38,505 - INFO - Scraping complete. Total messages: 150
+2026-01-18 20:23:38,506 - INFO -   @cheMed123: 50 messages
+2026-01-18 20:23:38,506 - INFO -   @lobelia4cosmetics: 50 messages
+2026-01-18 20:23:38,506 - INFO -   @tikvahpharma: 50 messages
