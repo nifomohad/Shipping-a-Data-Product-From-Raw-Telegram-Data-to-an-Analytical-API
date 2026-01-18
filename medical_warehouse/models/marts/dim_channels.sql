@@ -1,3 +1,6 @@
+{{ config(materialized='table') }}
+
+
 -- models/marts/dim_channels.sql
 WITH channel_stats AS (
     SELECT

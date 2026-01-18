@@ -1,3 +1,6 @@
+{{ config(materialized='table') }}
+
+
 -- models/staging/stg_telegram_messages.sql
 
 WITH raw_data AS (
