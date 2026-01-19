@@ -44,4 +44,4 @@ for channel in os.listdir(image_root):
                 "image_category": category
             })
 
-pd.DataFrame(data).to_csv('data/enriched/yolo_detections.csv', index=False)
+pd.DataFrame(data).to_csv('medical_warehouse/seeds/yolo_detections.csv', index=False)
