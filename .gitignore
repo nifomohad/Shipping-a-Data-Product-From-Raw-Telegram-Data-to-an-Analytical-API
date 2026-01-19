@@ -1,4 +1,4 @@
 /env
 /.env
 /data
-/src/yolo_detect
+/src/__pycache__

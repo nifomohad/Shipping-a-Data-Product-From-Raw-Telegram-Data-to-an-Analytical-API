@@ -1,4 +1,5 @@
 python-dotenv>=1.0.0
 telethon>=1.39.0
 psycopg2-binary>=2.9.9
-ultralytics
+ultralytics>=8.1.0
+pandas>=2.2.0
