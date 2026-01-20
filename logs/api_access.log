@@ -19,3 +19,5 @@
 2026-01-20 14:02:40,447 - MedicalAPI - INFO - Method: GET Path: /docs Status: 200 Duration: 0.00s
 2026-01-20 14:02:41,598 - MedicalAPI - INFO - Method: GET Path: /openapi.json Status: 200 Duration: 0.04s
 2026-01-20 14:03:01,312 - MedicalAPI - INFO - Method: GET Path: /api/reports/top-products Status: 200 Duration: 0.02s
+2026-01-20 14:07:21,830 - MedicalAPI - INFO - Method: GET Path: /docs Status: 200 Duration: 0.00s
+2026-01-20 14:07:22,288 - MedicalAPI - INFO - Method: GET Path: /openapi.json Status: 200 Duration: 0.04s
